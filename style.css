@@ -1,0 +1,39 @@
+body {
+	background:#303030;
+}
+
+footer {
+	color: white;
+	margin: 0 auto;
+	width: 500px;
+	font-family: verdana;
+  box-shadow: -4px 0 0px 0px #323232,
+    4px 0 0px 0px #404040,
+    0 4px 0px 0px #404040,
+    0 -4px 0px 0px #404040;
+}
+
+canvas {
+	display: block;
+}
+#canvasBear, #canvasEnemy, #canvasHUD. #title{
+	margin: -500px 0 0;
+}
+#canvasBg {
+	  box-shadow: -4px 0 0px 0px #323232,
+    4px 0 0px 0px #404040,
+    0 4px 0px 0px #404040,
+    0 -4px 0px 0px #404040;
+	display:block;background:#ffffff;;margin:100px auto 0px;
+}
+
+
+#canvasBear,#canvasEnemy, #canvasHUD{
+	display:block;margin:-500px auto 0px;
+}
+
+
+#title {
+	width:500px;
+	display:block;margin:100px auto 0px;
+}
